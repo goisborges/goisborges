@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goisborges
-- 👀 I’m interested in Software and Web development (finishing the second semester of COmputer Programming at Georgian College)
+- 👀 I’m interested in Software and Web development (finishing the fourth semester of COmputer Programming at Georgian College)
 - 🌱 I’m currently learning Java, C#, MySql, Javascript, HTML, CSS
-- 💞️ I’m looking for a Summer Co-op!!!
+
 - 📫 How to reach me: goisborges@gmail.com
 
 <!---
