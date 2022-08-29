@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goisborges
-- 👀 I’m interested in Software and Web development (finishing the fourth semester of COmputer Programming at Georgian College)
-- 🌱 I’m currently learning Java, C#, MySql, Javascript, HTML, CSS
+- 👀 I’m interested in Mobile, Software, and Web development (recently graduated Aug 2022)
+- 🌱 Swift, Java, C#, C++, Relational DBs, MongoDb Javascript, HTML, CSS
 
 - 📫 How to reach me: goisborges@gmail.com
 
