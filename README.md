@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goisborges
-- 👀 I’m interested in Mobile, Software, and Web development (recently graduated Aug 2022)
-- 🌱 Swift, Java, C#, C++, Relational DBs, MongoDb Javascript, HTML, CSS
+- 👀 I’m interested in Software and Web development
+- 🌱 Swift, Relational DBs, MongoDb, Javascript, Django (Python), Ruby/ liquid for Shopify, HubSpot dev 
 
 - 📫 How to reach me: goisborges@gmail.com
 
